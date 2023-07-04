@@ -8,7 +8,7 @@ It spams the next button until it gives you the confirmation code
 
 ## Alternative solution
 The survey validation code is 7 digits long.
-As a guess, the first 5 digits are a increasing unix like timestamp and the last 2 digits is the number that appears after the KS#.
+As a guess, the first 5 digits are an increasing unix like timestamp and the last 2 digits is the number that appears after the KS#.
 Usually the number is 13, but you should check it anyways.
 
 So as long as you make a believable 7 digit number such as 5925313. 
